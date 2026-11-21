@@ -1,5 +1,7 @@
 # 國小課綱教學對照
 
+網站已搬到 https://abbyaisimple.com/elementary-curriculum/ （原始檔在 abby-ai-simple repo 的 elementary-curriculum 資料夾）；本 repo 只保留轉址頁，完整版見 git 紀錄第一、二版。
+
 給國小老師用的十二年國教課綱查詢工具：學習重點查詢、核心素養對照、教案標注課綱、教學法與提示詞組合器。
 
 - 單一 HTML 檔，課綱資料在 `<script type="application/json" id="curriculum-data">` 區塊。
